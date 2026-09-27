@@ -49,7 +49,7 @@ DonutEnvoy operates by injecting logic at key points in the Minecraft event life
 ## 📥 Installation Guide
 
 1.  **Prerequisites:** Ensure you have **Forge** or **Fabric** installed (Fabric is recommended for this version).
-2.  **Download:** Download the latest JAR file from the **[Releases Page below!](## 🏷️ Releases)**.
+2.  **Download:** Download the latest JAR file from the [Releases Page](https://github.com/EnvoyDevMC/DonutEnvoy/releases)
 3.  **Placement:** Place `DonutEnvoy-v1.2.0.jar` into your Minecraft `mods` folder.
 4.  **Launch:** Start your Minecraft client and experience the stability boost immediately!
 
