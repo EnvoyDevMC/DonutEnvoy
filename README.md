@@ -20,8 +20,7 @@ Our core mission is simple: **Eliminate latency perception** so you can focus en
 *   **🛠️ Latency Stabilization (The Core Fix):** Advanced packet queuing and Jitter Compensation ensure your character position feels smooth, even when the connection hiccups.
 *   **🌐 Server/Client Synchronization:** Intelligent Entity Prediction modeling keeps your screen perfectly aligned with the server state, eliminating visual 'snapping' during rapid movement.
 *   **⚔️ Enhanced PvP Experience:** Custom Hit Registration Smoothing and optimized HUD rendering mean hit detection feels instant, and the UI remains crystal clear under combat pressure.
-*   **🛡️ Obfuscated Core Logic:** Our primary algorithmic routines are heavily obfuscated, making simple reverse-engineering and cheat detection significantly more complex for casual scrapers.
-
+*   
 ## 🔬 How Does It Work? (The Tech Deep Dive)
 
 DonutEnvoy operates by injecting logic at key points in the Minecraft event lifecycle:
