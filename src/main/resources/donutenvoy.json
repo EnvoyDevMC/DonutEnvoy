@@ -1,0 +1,15 @@
+{
+  "mod_name": "DonutEnvoy",
+  "version": "1.2.0",
+  "enabled": true,
+  "tuning": {
+    "network_smoothing_strength": 0.85,  // How aggressively packets are smoothed (1.0 is max smoothing)
+    "pvc_rotation_dampening": 0.015,      // How much the client tries to "catch up" rotationally
+    "min_packet_jitter_threshold": 0.04, // Minimum change needed to flag a packet as "janky"
+    "max_entity_prediction_horizon": 0.5 // Predict movement 0.5 seconds into the future
+  },
+  "hud": {
+    "show_fps_overlay": true,
+    "smooth_minimap_lines": true
+  }
+}
