@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -41,3 +42,23 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+=======
+# Compiled Output
+*.jar
+
+# IDE Files
+.idea/       # For IntelliJ
+.gradle/     # Gradle cache files
+
+# OS Files
+.DS_Store    # For macOS
+Thumbs.db    # For Windows
+
+# Log/Temp Files
+logs/
+.idea/
+*.iml
+.gradle/
+build/
+out/
+>>>>>>> bdd8b05ba8561779ab5a3cfb5beaddd3756365f3
