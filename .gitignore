@@ -1,6 +1,4 @@
 # Compiled Output
-/out/
-/build/
 *.jar
 
 # IDE Files
@@ -13,3 +11,8 @@ Thumbs.db    # For Windows
 
 # Log/Temp Files
 logs/
+.idea/
+*.iml
+.gradle/
+build/
+out/
