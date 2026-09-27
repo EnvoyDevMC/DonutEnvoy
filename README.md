@@ -73,6 +73,3 @@ We welcome contributions! Whether you're reporting a bug, suggesting a new featu
 ➡️ **[Request New Feature](https://github.com/your-username/DonutEnvoy/issues/new?title=Feature%20Request&template=feature_request.md)**
 
 ---
-*(Optional: Add a small placeholder section here for your GIF/Screenshot embeds!)*
-**[ Placeholder GIF: Before vs. After Smoothness ]**
-*Image caption: See the difference in entity movement when DonutEnvoy is active!*
