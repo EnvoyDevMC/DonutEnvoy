@@ -1,18 +1,13 @@
-# Compiled Output
-*.jar
-
-# IDE Files
-.idea/       # For IntelliJ
-.gradle/     # Gradle cache files
-
-# OS Files
-.DS_Store    # For macOS
-Thumbs.db    # For Windows
-
-# Log/Temp Files
-logs/
+# IntelliJ
 .idea/
 *.iml
+*.ipr
+*.iws
+
+# Gradle
 .gradle/
 build/
 out/
+
+# OS
+.DS_Store
