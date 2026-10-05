@@ -39,7 +39,7 @@ DonutEnvoy operates by injecting logic at key points in the Minecraft event life
 | **Version** | `v1.2.0` |
 | **Target Game** | Minecraft |
 | **Compatibility** | DonutSMP Server |
-| **Fabric API** | **1.21.11** (Required) |
+| **Fabric API** | **1.21.11** (0.141.2) (Required) |
 | **Build System** | Gradle |
 | **License** | MIT |
 
